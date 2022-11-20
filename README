@@ -1,0 +1,21 @@
+# 学习文件系统
+
+纸上得来终觉浅，绝知此事要躬行。学习文件系统，不仅需要扎实的理论知识，也需要勤奋的编码。
+
+2022.11.20 
+
+参考学习资料
+
+1. samplefs, this is a simple fs for newer devoleper to learn fs.
+
+2. Linux 0.11源码分析
+
+3. linux source code
+
+## files analysis
+
+for a fs, we should have super_block to mount, a inode to identify a file, and a dentry to set a file catogary.
+
+
+
+操作系统内核版本:Linux www.soon.com 3.10.0-1160.24.1.el7.x86_64 #1 SMP Thu Apr 8 19:51:47 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
