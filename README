@@ -21,4 +21,4 @@ for a fs, we should have super_block to mount, a inode to identify a file, and a
 操作系统内核版本:Linux www.soon.com 3.10.0-1160.24.1.el7.x86_64 #1 SMP Thu Apr 8 19:51:47 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 
 
-![fs_result](images/fsresult.jpg)
+![image](images/fsresult.jpg)
