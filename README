@@ -21,6 +21,7 @@ for a fs, we should have super_block to mount, a inode to identify a file, and a
 操作系统内核版本:Linux www.soon.com 3.10.0-1160.24.1.el7.x86_64 #1 SMP Thu Apr 8 19:51:47 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 
 
+<<<<<<< HEAD
 ## 操作步骤
 
 1. git clone url && cd url && make
@@ -32,4 +33,5 @@ for a fs, we should have super_block to mount, a inode to identify a file, and a
 4. mount -t wangdehuifs lance /mnt/wangdehuifs_test/ -o size=100m
 
 5. df -aT 
-![fs_result](images/fsresult.jpg)
+
+![image](https://github.com/Lance-soon/linux_fs_learn_exapmle/blob/master/images/fsresult.jpg)
